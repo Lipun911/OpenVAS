@@ -36,4 +36,4 @@ To mitigate these identified risks, the following controls are recommended to se
 *   **Network Security:** Enforce IP allow-listing strictly to corporate offices to prevent unauthorized external internet connections to the database.
 *   **Encryption:** Upgrade data-in-motion encryption protocols from SSL to TLS.
 
-*To view the complete, formal risk analysis deliverable, please see my [Vulnerability Assessment Report](https://vscode.dev/github/Lipun911/OpenVAS/blob/main/Vulnerability%20assessment%20report.md).*
+*To view the complete, formal risk analysis deliverable, please see my [Vulnerability Assessment Report](Vulnerability-assessment-report.md).*
