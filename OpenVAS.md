@@ -29,7 +29,7 @@ Once you have completed the installation process mentioned above, you can access
 This will take you to the login page of OpenVAS. Once you enter the correct login credentials, the following dashboard will open. This dashboard provides a comprehensive overview of all your vulnerability scans: 
 
 
-![alt text](image-1.png)
+![alt text](image.png)
 **Performing a Vulnerability Scan** 
 
 Now, we are going to perform a vulnerability scan on a machine. The first step is to create a task inside the OpenVAS dashboard. We will fill out the details for this task and execute it to run the vulnerability scan. 
@@ -38,35 +38,35 @@ Click the “Tasks” option available inside the “Scans” option displayed o
 
 You will reach the page where all the running tasks are displayed. We would not see any task on this page because we have not yet performed any scans. To create a task, click the star icon and then the “New Task” option as highlighted in the screenshot: 
 
-![alt text](image-2.png)
+![alt text](image-1.png)
 
 Enter the name of the task, and click the “Scan Targets” option as highlighted in the screenshot: 
 
-![alt text](image-3.png)
+![alt text](image-2.png)
 
 Enter the name of the target machine and its IP address, and click “Create”: 
 
-![alt text](image-4.png)
+![alt text](image-3.png)
 
 You will have multiple scan options available. Each scan option has its scope of scanning; you can study the details of each scan type and choose accordingly, and then click on the “Create” button: 
 
-![alt text](image-5.png)
+![alt text](image-4.png)
 
 The task is created and will be displayed to you on the Tasks dashboard. To initiate the scan, click the play button in the “Actions” option of the task: 
 
-![alt text](image-6.png)
+![alt text](image-5.png)
 
 It will take a few minutes to complete the scan. After the scan is completed, you will see its status marked as “Done”. The visualizations inside the Tasks dashboard will display some numbers indicating the severity of vulnerabilities found. To check the details of the scan, you have to click on the task name: 
 
-![alt text](image-7.png)
+![alt text](image-6.png)
 
 To see the details of all the vulnerabilities discovered during the scan, you can click on the number indicating the count of vulnerabilities found in the subject host: 
 
-![alt text](image-8.png)
+![alt text](image-7.png)
 
 Now, we have a list of all the vulnerabilities found in this machine and their severity. We can also click on any of them to see more details: 
 
-![alt text](image-9.png)
+![alt text](image-8.png)
 
 Like other vulnerability scanners, OpenVAS allows us to export these results as reports. You can fetch the reports in any format from the Tasks dashboard. 
 
