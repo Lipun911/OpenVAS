@@ -1,4 +1,4 @@
-# Portfolio Project: Vulnerability Scanning and Risk Assessment using OpenVAS & NIST SP 800-30
+# Vulnerability Scanning and Risk Assessment using OpenVAS & NIST SP 800-30
 
 ## **Objective**
 To demonstrate the ability to discover network vulnerabilities using **OpenVAS** and evaluate the associated business risks utilizing the **NIST SP 800-30 Rev. 1** framework, culminating in a detailed assessment report and actionable remediation strategies.
