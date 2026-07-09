@@ -69,4 +69,3 @@ Now, we have a list of all the vulnerabilities found in this machine and their s
 ![alt text](images/image-8.png)
 
 Like other vulnerability scanners, OpenVAS allows us to export these results as reports. You can fetch the reports in any format from the Tasks dashboard. 
-
