@@ -29,7 +29,7 @@ Once you have completed the installation process mentioned above, you can access
 This will take you to the login page of OpenVAS. Once you enter the correct login credentials, the following dashboard will open. This dashboard provides a comprehensive overview of all your vulnerability scans: 
 
 
-![alt text](images/image.png)
+![alt text](Images/image.png)
 **Performing a Vulnerability Scan** 
 
 Now, we are going to perform a vulnerability scan on a machine. The first step is to create a task inside the OpenVAS dashboard. We will fill out the details for this task and execute it to run the vulnerability scan. 
