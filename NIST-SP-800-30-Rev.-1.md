@@ -69,7 +69,3 @@ Consider the business impact of _threat events_ when producing a severity score.
 |Moderate|2|Threat source is somewhat likely to initiate a security event. An event could signifcantly reduce the functionality of organizational operations and assets.|
 |Low|1|Threat source is highly unlikely to initiate a security event. An event could have minor, negligible effects on business operations and assets.|
 
-
-
-4 
-
