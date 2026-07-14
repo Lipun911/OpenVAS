@@ -30,15 +30,15 @@ NIST SP 800-30 defines and categorizes threat events as actual instances where a
 
 |**Examples**|**Description**|
 |---|---|
-|Perform reconnaissance and surveillance of organization|Threat source examines and assesses the company's vulnerabilities over time using various<br>tools (e.g., scanning, physical observation).|
+|Perform reconnaissance and surveillance of organization|Threat source examines and assesses the company's vulnerabilities over time using various tools (e.g., scanning, physical observation).|
 |Obtain sensitive information via exfltration|Threat source installs malicious sofware on organizational systems to locate and acquire sensitive information.|
-|Alter/Delete critical information|Threat source alters or deletes data that is<br>critical to day-to-day business operations.|
-|Craft counterfeit certifcates.|Threat source compromises a certifcate authority to make their connections appear<br>legitimate.|
-|Install persistent and targeted network sniffers on organizational information systems.|Threat source installs sofware designed to<br>collect (sniff) network traffic over a continued period of time.|
+|Alter/Delete critical information|Threat source alters or deletes data that is critical to day-to-day business operations.|
+|Craft counterfeit certifcates.|Threat source compromises a certifcate authority to make their connections appear legitimate.|
+|Install persistent and targeted network sniffers on organizational information systems.|Threat source installs sofware designed to collect (sniff) network traffic over a continued period of time.|
 |Conduct Denial of Service (DoS) attacks.|Threat source sends automated, excessive requests to overwhelm the system's operating capabilities.|
-|Disrupt mission-critical operations.|Threat source compromises the integrity of<br>information in such a way that prevents the<br>business from carrying out critical operations.|
+|Disrupt mission-critical operations.|Threat source compromises the integrity of information in such a way that prevents the business from carrying out critical operations.|
 |Obfuscate future atacks.|Threat source takes actions to inhibit the effectiveness of the intrusion detection systems or auditing capabilities at the company.|
-|Conduct "man-in-the-middle" atacks.|Threat source eavesdrops on sessions between<br>internal and external systems. Later, they relay<br>messages between organizational and external systems that make them believe they're talking directly to each other over a private connection.|
+|Conduct "man-in-the-middle" atacks.|Threat source eavesdrops on sessions between internal and external systems. Later, they relay messages between organizational and external systems that make them believe they're talking directly to each other over a private connection.|
 
 
 
